@@ -7,7 +7,7 @@ button,
 input,
 select,
 textarea {
-	font-family: 'Source Sans Pro', 'Helvetica', Arial, sans-serif;
+	font-family: 'Montserrat', Arial, sans-serif;
 	font-size: 18px;
     line-height: 1.5;
 }
@@ -115,18 +115,21 @@ body {
 
 .masthead {
     padding: 1em 2em;
-    background-color: #0D1B2E;
+    background-color: #E253B6;
     color: white;
+
 }
 
 .masthead h1 {
     text-align: center;
+    font-family: 'Merriweather', serif;
+    text-transform: capitalize;
 }
 
 .intro {
     padding: 2em 2em;
     color: #ffffff;
-    background: #429890;
+    background: #E253B6;
 }
 
 
@@ -173,7 +176,7 @@ body {
 }
 
 .timer {
-    font-size: 3em;
+    font-size: 2em;
     font-weight: bold;
 }
 
@@ -181,12 +184,12 @@ body {
     padding: .5em 1em;
     font-size: 1.2em;
     font-weight: bold;
-    color: #E95D0F;
+    color: #E253B6;
     background: white ;
-    border: 10px solid #E95D0F;
+    border: 5px solid #E253B6;
 }
 
 #reset:hover {
     color: white;
-    background-color: #E95D0F;
+    background-color: #E253B6;
 }
